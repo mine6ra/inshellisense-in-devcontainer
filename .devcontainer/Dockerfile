@@ -1,3 +1,4 @@
+# Dockerfileを使う場合の例
 FROM node:20-bullseye-slim AS node
 
 FROM mcr.microsoft.com/devcontainers/base:bullseye
